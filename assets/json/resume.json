@@ -24,13 +24,13 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Centre for Developmental Neurobiology, KCL",
+      "position": "Research Associate, Houart lab",
+      "url": "https://devneuro.org/cdn/group-overview.php?groupID=16",
+      "startDate": "2022",
+      "endDate": "now",
+      "summary": "",
+      "highlights": ["Investigating the role of RNA splicing proteins from the SRSF family in zebrafish spinal neurons during development, including control of axonal transcripts and neuronal maturation", "Developing a combination of tools and live imaging techniques to observe the behavioural dynamics of RNA splicing proteins in living axons in vivo"]
     }
   ],
   "volunteer": [
