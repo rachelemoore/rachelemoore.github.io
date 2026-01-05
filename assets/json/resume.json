@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Rachel Elizabeth Moore",
-    "label": "Developmental neurobiologist",
+    "expertise": "Developmental neurobiologist",
     "image": "",
     "email": "rachel.moore at kcl.ac.uk",
     "phone": "+44 (0) 20 7848 6416",
@@ -22,7 +22,7 @@
       }
     ]
   },
-  "research experience": [
+  "work": [
     {
       "name": "Institute for Advanced Study, Princeton University",
       "position": "Professor of Theoretical Physics",
