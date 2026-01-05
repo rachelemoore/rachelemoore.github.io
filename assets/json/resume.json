@@ -2,7 +2,7 @@
   "basics": {
     "name": "Rachel Elizabeth Moore",
     "expertise": "Developmental neurobiologist",
-    "image": "",
+    "image": " ",
     "email": "rachel.moore at kcl.ac.uk",
     "phone": "+44 (0) 20 7848 6416",
     "url": "https://rachelemoore.github.io/",
@@ -12,7 +12,7 @@
       "postalCode": "SE1 1UL",
       "city": "London",
       "countryCode": "UK",
-      "region": ""
+      "region": " "
     },
     "profiles": [
       {
@@ -29,7 +29,7 @@
       "url": "https://devneuro.org/cdn/group-overview.php?groupID=16",
       "startDate": "2022",
       "endDate": "now",
-      "summary": "",
+      "summary": " ",
       "highlights": ["Investigating the role of RNA splicing proteins from the SRSF family in zebrafish spinal neurons during development, including control of axonal transcripts and neuronal maturation", "Developing a combination of tools and live imaging techniques to observe the behavioural dynamics of RNA splicing proteins in living axons in vivo"]
     }
     {
