@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Rachel Elizabeth Moore",
+    "label": "Developmental neurobiologist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "rachel.moore at kcl.ac.uk",
+    "phone": "",
+    "url": "https://rachelemoore.github.io/",
+    "summary": "I am interested in how neurons mature and develop within the embryonic nervous system. To address this, I perform live, high-resolution time-lapse microscopy at subcellular resolution, mainly on zebrafish embryos.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Centre for Developmental Neurobiology, King's College London",
+      "postalCode": "Guy's Hospital Campus, SE1 1UL",
+      "city": "London",
+      "countryCode": "UK",
+      "region": "London"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Instagram",
+        "username": "rach_e_moore",
+        "url": "https://instagram.com/rach_e_moore"
       }
     ]
   },
