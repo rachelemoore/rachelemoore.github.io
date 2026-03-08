@@ -39,8 +39,8 @@
       institution: California Institute of Technology, Pasadena, California, US
       year: 1933
       description:
-        - Description 1.
-        - Description 2.
+        # - Description 1.
+        # - Description 2.
 
     - title: Director
       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
