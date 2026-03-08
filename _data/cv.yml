@@ -12,47 +12,29 @@
   type: time_table
   contents:
     - title: PhD
-      institution: Department of Cell & Developmental Biology, University College London, UK
+      institution: Department of Cell & Developmental Biology
+      University College London, UK
       year: 2009 - 2013
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
     - title: Honours
-      institution: Department of Anatomy & Cell Biology, University of Melbourne, Australia
-      year: 2008
-      description:
-        - Description 1.
-        - Description 2.
+      institution: Department of Anatomy & Cell Biology
+      University of Melbourne, Australia
+      year: 2008 
     - title: Bachelor of Biomedical Science
       institution: University of Melbourne, Australia
       year: 2004 - 2007
-      description:
-        - Description 1.
-        - Description 2.
     - title: Diploma of Modern Languages (German)
       institution: University of Melbourne, Australia
       year: 2006 - 2006
-      description:
-        - Description 1.
-        - Description 2.
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Associate, Houart Lab
+      institution: Centre for Developmental Neurobiology, King's College London, UK
+      year: 2022 - now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Investigating the role of SRSF RNA splicing proteins in zebrafish spinal neurons during development, including control of axonal transcripts and neuronal maturation.
+        - Developing a combination of tools and live imaging techniques to observe the behavioural dynamics of RNA splicing proteins in living axons in vivo.
     - title: Visiting Professor
       institution: California Institute of Technology, Pasadena, California, US
       year: 1933
