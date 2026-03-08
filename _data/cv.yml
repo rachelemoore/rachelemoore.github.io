@@ -12,8 +12,7 @@
   type: time_table
   contents:
     - title: PhD
-      institution: Department of Cell & Developmental Biology, 
-      University College London, UK
+      institution: Department of Cell & Developmental Biology, University College London, UK
       year: 2009 - 2013
       description:
 #        - Description 1.
