@@ -44,16 +44,14 @@
   type: time_table
   contents:
     - title: Research Associate, Houart Lab
-      institution: Centre for Developmental Neurobiology, 
-      King's College London, UK
+      institution: Centre for Developmental Neurobiology, King's College London, UK
       year: 2022 - now
       description:
         - Investigating the role of SRSF RNA splicing proteins in zebrafish spinal neurons during development, including control of axonal transcripts and neuronal maturation.
         - Developing a combination of tools and live imaging techniques to observe the behavioural dynamics of RNA splicing proteins in living axons in vivo.
 
     - title: Research Associate, Clarke Lab
-      institution: Centre for Developmental Neurobiology, 
-      King's College London, UK
+      institution: Centre for Developmental Neurobiology, King's College London, UK
       year: 2014 - 2021
       description:
          - Investigated neuronal polarity and axon initiation in the zebrafish embryonic spinal cord in vivo, finding that axon initiation can occur in the absence of the microtubule cytoskeleton.
@@ -61,15 +59,13 @@
          - Helped develop the phytochrome system for use in zebrafish, allowing precise manipulation of protein localisation in vivo within a live, normally developing organism.
 
     - title: Ph.D. student, Mayor Lab
-      institution: Department of Cell and Developmental Biology
-      University College London, UK
+      institution: Department of Cell and Developmental Biology, University College London, UK
       year: 2009 - 2013
       description:
         - Identified that polarity protein Par3 affects microtubule dynamics via Rac1 signalling in Xenopus laevis neural crest cells, and that this is important for their migration.
 
     - title: Honours student, Young Lab
-      institution: Department of Anatomy and Cell Biology
-      University of Melbourne, Australia
+      institution: Department of Anatomy and Cell Biology, University of Melbourne, Australia
       year: 2008 
       description:
         - Helped determine that neuronal activity can influence neuronal differentiation during enteric nervous system development in the mouse embryo.
@@ -91,7 +87,6 @@
     - year: Nov 2021
       items:
         - Awardee, KCL Parents and Carers Fund (£9,668)
-#        - Matteucci Medal
     - year: Nov 2019
       items:
         - Awardee, KCL Institute of Psychiatry, Psychology & Neuroscience Early Career Research Award (£2,500)
