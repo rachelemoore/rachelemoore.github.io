@@ -15,12 +15,12 @@
       institution: Department of Cell & Developmental Biology, University College London, UK
       year: 2009 - 2013
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+#        - Description 1.
+#        - Description 2.
+#        - title: Description 3.
+#          contents:
+#            - Sub-description 1.
+#            - Sub-description 2.
     - title: Honours
       institution: Department of Anatomy & Cell Biology, University of Melbourne, Australia
       year: 2008
