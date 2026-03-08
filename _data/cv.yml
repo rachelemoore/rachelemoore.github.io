@@ -8,13 +8,13 @@
 #  - name: Languages
 #   value: English, German
 
-- title: Education
+- title: Education test
   type: time_table
   contents:
     - title: PhD
       institution: Department of Cell & Developmental Biology, University College London, UK
       year: 2009 - 2013
-      description:
+#      description:
 #        - Description 1.
 #        - Description 2.
 #        - title: Description 3.
@@ -23,20 +23,20 @@
 #            - Sub-description 2.
     - title: Honours
       institution: Department of Anatomy & Cell Biology, University of Melbourne, Australia
-      year: 2008
+      year: 2008 
 #      description:
 #        - Description 1.
 #        - Description 2.
     - title: Bachelor of Biomedical Science
       institution: University of Melbourne, Australia
       year: 2004 - 2007
-      description:
+#      description:
 #        - Description 1.
 #        - Description 2.
     - title: Diploma of Modern Languages (German)
       institution: University of Melbourne, Australia
       year: 2006 - 2006
-      description:
+#      description:
 #        - Description 1.
 #        - Description 2.
 
