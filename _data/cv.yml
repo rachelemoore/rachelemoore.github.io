@@ -75,8 +75,8 @@
 #      year: 1909 - 1911
         
 - title: Funding
-#  type: nested_list
-#  items:
+  type: nested_list
+  items:
     - 2021 - Awardee, KCL Parents and Carers Fund (£9,668)
     - 2019 - Awardee, KCL Institute of Psychiatry, Psychology & Neuroscience Early Career Research Award (£2,500)
     - 2009 - Awardee, UCL Graduate Research Scholarship (£56,370)
