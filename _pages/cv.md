@@ -4,7 +4,8 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: MooreR_CV.pdf # you can also use external links here
+cv_pdf: /assets/rendercv/rendercv_output/CV.pdf # you can also use external links here
+cv_format: rendercv
 description: ""
 toc:
   sidebar: left
