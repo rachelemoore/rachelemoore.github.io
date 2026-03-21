@@ -142,8 +142,8 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-  books:
-    output: true
+#  books:
+#    output: true
   news:
     defaults:
       layout: post
@@ -200,6 +200,7 @@ exclude:
   - _includes/news.liquid
   - _pages/repositories.md
   - _includes/repository/
+  - _books/
 keep_files:
   - CNAME
   - .nojekyll
