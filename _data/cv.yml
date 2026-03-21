@@ -11,8 +11,8 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: Department of Cell & Developmental Biology, University College London, UK
+    - title: PhD, Mayor Lab
+      institution: Department of Cell and Developmental Biology, University College London, UK
       year: 2009 - 2013
 #      description:
 #        - Description 1.
@@ -21,7 +21,7 @@
 #          contents:
 #            - Sub-description 1.
 #            - Sub-description 2.
-    - title: Honours
+    - title: Honours, Young Lab
       institution: Department of Anatomy & Cell Biology, University of Melbourne, Australia
       year: 2008 
 #      description:
@@ -92,16 +92,16 @@
       items:
         - August 2024 - Talk, International Zebrafish Meeting, Japan
         - July 2023 - Talk, European Zebrafish Meeting, Poland
-        - Sept 2020 - Talk, South-West Zebrafish Meeting, UK (2nd prize oral presentation)
+        - Sept 2020 - Talk, South-West Zebrafish Meeting, UK (2nd Prize)
         - Jan 2020 - Talk, 31st Head Group Meeting, UK
-        - Dec 2019 - Talk EMBO Mechanisms of Neuronal Remodelling, Israel
+        - Dec 2019 - Talk, EMBO Mechanisms of Neuronal Remodelling, Israel
 
 - title: Academic Service
   type: time_table
   contents:
     - year: 2022
       items:
-        - Working Group Member - Supervisor/PI communication working group, Centre for Developmental Neurobiology, KCL
+        - Working Group Member - Supervisor/PI communication working group, CDN, KCL
     - year: 2018 - 2020
       items:
         - Committee Member - Animal Welfare and Ethical Review Body (AWERB), Guy's Hospital Campus, KCL
@@ -115,6 +115,7 @@
       items:
         - Treasurer, Young Embryologist Network
     - year: 2011 - 2012
+      items:
         - Chair, Young Embryologist Network 
 
 #- title: Other Interests
