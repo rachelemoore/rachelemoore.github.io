@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: Investigating SRSF RNA splicing proteins in neuronal development
 description: with background image
 img: assets/img/12.jpg
 importance: 1
