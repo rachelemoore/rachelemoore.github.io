@@ -12,16 +12,20 @@ profile:
     <p>Research Associate</p>
     <p>Houart Lab</p>
     <p>CDN, KCL</p>
-selected_papers: false # includes a list of papers marked as "selected={true}"
+
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+
 announcements:
-  enabled: false # includes a list of news items
+  enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
+
 latest_posts:
-  enabled: false
+  enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
 I am interested in how neurons develop and mature within the embyronic nervous system. To investigate this I perform live high-resolution time-lapse microscopy at subcellular resolution, usually on zebrafish embryos.
+
