@@ -28,4 +28,4 @@ social: true # includes social icons at the bottom of the page
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am interested in how neurons within the embyronic nervous system mature and develop. To investigate this I perform live time-lapse microscopy at subcellular resolution, usually on zebrafish embryos.
+I am interested in how neurons mature and develop within the embyronic nervous system. To investigate this I perform live time-lapse microscopy at subcellular resolution, usually on zebrafish embryos.
