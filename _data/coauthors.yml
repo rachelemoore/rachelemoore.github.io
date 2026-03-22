@@ -33,3 +33,15 @@
 "mayor":
   - firstname: ["Roberto", "R."]
     url: https://mayorlab-ucl.webflow.io
+
+"hao":
+  - firstname: ["Marlene", "Marlene M", "Marlene M.", "M.", "M. M."]
+    url: https://findanexpert.unimelb.edu.au/profile/147780-marlene-hao
+
+"furness":
+  - firstname: ["John", "John B", "John B.", "J.", "J. B.", "JB"]
+    url: https://findanexpert.unimelb.edu.au/profile/14374-john-furness
+
+"young":
+  - firstname: ["Heather", "Heather M", "Heather M.", "H.", "H. M."]
+    url: https://findanexpert.unimelb.edu.au/profile/1047-heather-young
