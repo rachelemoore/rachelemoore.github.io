@@ -37,13 +37,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
-          },
         },{id: "projects-investigating-srsf-rna-splicing-proteins-in-neuronal-development",
           title: 'Investigating SRSF RNA splicing proteins in neuronal development',
           description: "with background image",
