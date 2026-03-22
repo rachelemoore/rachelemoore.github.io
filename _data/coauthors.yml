@@ -1,34 +1,35 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"pop":
+  - firstname: ["Sinziana", "Sînziana", "S."]
+    url: https://www.crick.ac.uk/research/find-a-researcher/sinzi-pop
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"clarke":
+  - firstname: ["Jon", "Jonathan", "Jonathan DW", "Jonathan D W", "J.", "J. D. W."]
+    url: https://www.kcl.ac.uk/people/jon-clarke
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"alexandre":
+  - firstname: ["Paula", "P."]
+    url: https://www.ucl.ac.uk/child-health/research/developmental-biology-and-cancer/developmental-biology-birth-defects/paula-alexandres-2
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"hadjivasiliou":
+  - firstname: ["Zena", "Z."]
+    url: https://www.crick.ac.uk/research/labs/zena-hadjivasiliou
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"buckley":
+  - firstname: ["Clare", "Clare E", "Clare E.", "C.", "C. E."]
+    url: https://research.manchester.ac.uk/en/persons/clare-buckley
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"weiner":
+  - firstname: ["Orion", "Orion D", "Orion D.", "O.", "O. D."]
+    url: https://weinerlab.com
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"theveneau":
+  - firstname: ["Eric", "E."]
+    url: https://cbi-toulouse.fr/en/equipe/theveneau-en
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"parsons":
+  - firstname: ["Maddy", "Madeleine", "M."]
+    url: https://www.kcl.ac.uk/research/the-parsons-group
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"mayor":
+  - firstname: ["Roberto", "R."]
+    url: https://mayorlab-ucl.webflow.io
