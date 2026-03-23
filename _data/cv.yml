@@ -87,10 +87,12 @@
   contents:
     - title: Invited Presentations
       items:
+        - February 2024 - Seminar, Cytoskeleton of Neurons and Glia Seminar Series, online
+        - February 2022 - Seminar, Australian Developmental Neuroscience Forum, inline
         - March 2020 - Seminar, Department of Anatomy and Cell Biology, University of Melbourne, Australia
     - title: Selected Abstracts
       items:
-        - August 2024 - Talk, International Zebrafish Meeting, Japan
+        - August 2024 - Talk, International Zebrafish Conference, Japan
         - July 2023 - Talk, European Zebrafish Meeting, Poland
         - Sept 2020 - Talk, South-West Zebrafish Meeting, UK (2nd Prize)
         - Jan 2020 - Talk, 31st Head Group Meeting, UK
@@ -99,9 +101,12 @@
 - title: Academic Service
   type: time_table
   contents:
+    - year: 2022 - now
+      items:
+        - Committee Member - Public Engagement Committee, Centres for Developmental Neurobiology and Neurodevelopmental Disorders, KCL
     - year: 2022
       items:
-        - Working Group Member - Supervisor/PI communication working group, CDN, KCL
+        - Working Group Member - Supervisor/PI Communication Working Group, CDN, KCL
     - year: 2018 - 2020
       items:
         - Committee Member - Animal Welfare and Ethical Review Body (AWERB), Guy's Hospital Campus, KCL
@@ -110,13 +115,13 @@
         - Peer review - Nature Communications, PNAS, Frontiers in Cell and Developmental Biology, Mechanisms of Development
     - year: 2017 - 2020
       items:
-        - Organiser, Post-doc meetings, Centre for Developmental Biology, KCL
+        - Organiser - Post-doc meetings, Centre for Developmental Biology, KCL
     - year: 2016 - 2020
       items:
-        - Treasurer, Young Embryologist Network
+        - Treasurer - Young Embryologist Network
     - year: 2011 - 2012
       items:
-        - Chair, Young Embryologist Network 
+        - Chair - Young Embryologist Network 
 
 #- title: Other Interests
 #  type: list
