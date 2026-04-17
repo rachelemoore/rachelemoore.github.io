@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "projects-investigating-srsf-rna-splicing-proteins-in-neuronal-development",
           title: 'Investigating SRSF RNA splicing proteins in neuronal development',
-          description: "Hoaurt Lab, KCL",
+          description: "Houart Lab, KCL",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
             },},{id: "projects-project-2",
