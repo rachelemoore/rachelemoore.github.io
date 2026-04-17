@@ -1,12 +1,18 @@
 ---
 layout: page
-title: project 2
+title: Understanding the biology of axon initiation _in vivo_
 description: a project with a background image and giscus comments
 img: assets/img/3.jpg
-importance: 2
+importance: 1
 category: work
-giscus_comments: true
+related_publications: true
 ---
+
+Neurons connect to their targets, such as muscles or other neurons, via long thin processes called axons. During embryonic develompent, newborn neurons extend a specific number of axons from specific positions on the cell body. This is essential for the subsequent formation of connectivity, enabling a functioning nervous system. However, we don't understand how axon initiation is controlled and how this mechanism is maintained in nerve regeneration. Adult mammalian neurons are unable to grow new axons after they are damaged by injury or disease, even when the cell body remains healthy.
+
+Our current understanding of axon initiation is mostly based on experiments where neurons are cultured in a dish. This is very different to their normal environment in the nervous system, and it's hard to know which findings are relevant. There are some methods of investigating axon initiation in the neurons' normal environment, but it is generally very difficult to observe. Further, in all of our current models (neurons in a dish or in an embryo), neurons extend other types of processes first, with one of those later turning into an axon. This makes it difficult to figure out exactly when the axon is "born".
+
+To address these problems, I have established the zebrafish embryonic spinal cord as a model. Zebrafish embryos are transparent so it is very easy to see living neurons developing within their normal environment. Neurons in the zebrafish spinal cord extend axons directly from the cell body, so I can see exactly when axon initiation occurs. They extend either one or (rarely) three axons at a very stereotyped position on the cell body. This allows me to describe how axon number and axon positioning are controlled in time and space and identify precisely what is driving this process. 
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
