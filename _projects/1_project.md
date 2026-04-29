@@ -4,7 +4,7 @@ title: Investigating SRSF RNA splicing proteins in neuronal development
 description: Houart Lab, KCL
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: ongoing
 related_publications: false
 ---
 
