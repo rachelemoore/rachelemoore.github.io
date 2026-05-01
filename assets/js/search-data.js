@@ -56,7 +56,7 @@ ninja.data = [{
           title: 'Understanding the function of Pard3 during neural crest migration',
           description: "Mayor Lab, UCL",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project.html";
+              window.location.href = "/projects/phd_project.html";
             },},{id: "projects-project-5",
           title: 'project 5',
           description: "a project with a background image",
