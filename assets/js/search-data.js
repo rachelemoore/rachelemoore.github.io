@@ -37,12 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "projects-investigating-srsf-rna-splicing-proteins-in-neuronal-development",
-          title: 'Investigating SRSF RNA splicing proteins in neuronal development',
-          description: "Houart Lab, KCL",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project.html";
-            },},{id: "projects-understanding-axon-initiation-in-vivo",
+        },{id: "projects-understanding-axon-initiation-in-vivo",
           title: 'Understanding axon initiation in vivo',
           description: "Clarke Lab, KCL",
           section: "Projects",handler: () => {
@@ -57,6 +52,11 @@ ninja.data = [{
           description: "Clarke Lab, KCL",
           section: "Projects",handler: () => {
               window.location.href = "/projects/phytochrome_project.html";
+            },},{id: "projects-investigating-srsf-rna-splicing-proteins-in-neuronal-development",
+          title: 'Investigating SRSF RNA splicing proteins in neuronal development',
+          description: "Houart Lab, KCL",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/srsf_project.html";
             },},{id: "projects-project-5",
           title: 'project 5',
           description: "a project with a background image",
