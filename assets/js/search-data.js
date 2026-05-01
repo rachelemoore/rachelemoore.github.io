@@ -52,9 +52,9 @@ ninja.data = [{
           description: "Clarke Lab, KCL",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project.html";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-understanding-the-function-of-pard3-during-neural-crest-migration",
+          title: 'Understanding the function of Pard3 during neural crest migration',
+          description: "Mayor Lab, UCL",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project.html";
             },},{id: "projects-project-5",
