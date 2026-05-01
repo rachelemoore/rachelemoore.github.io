@@ -57,16 +57,16 @@ ninja.data = [{
           description: "Mayor Lab, UCL",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project.html";
-            },},{id: "projects-a-novel-protrusion-type-mediates-the-spatiotemporal-pattern-of-neuronal-differentiation",
-          title: 'A novel protrusion type mediates the spatiotemporal pattern of neuronal differentiation',
-          description: "Clarke Lab, KCL",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project.html";
             },},{id: "projects-project-5",
           title: 'project 5',
           description: "a project with a background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/template_project.html";
+            },},{id: "projects-a-novel-protrusion-type-mediates-the-spatiotemporal-pattern-of-neuronal-differentiation",
+          title: 'A novel protrusion type mediates the spatiotemporal pattern of neuronal differentiation',
+          description: "Clarke Lab, KCL",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/tshape_project.html";
             },},{
         id: 'social-cv',
         title: 'CV',
