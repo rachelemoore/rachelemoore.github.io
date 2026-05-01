@@ -47,9 +47,9 @@ ninja.data = [{
           description: "Clarke Lab, KCL",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project.html";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-developing-the-phytochrome-system-for-zebrafish",
+          title: 'Developing the Phytochrome system for zebrafish',
+          description: "Clarke Lab, KCL",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project.html";
             },},{id: "projects-project-5",
