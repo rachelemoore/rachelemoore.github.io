@@ -66,7 +66,7 @@ ninja.data = [{
           title: 'project 5',
           description: "a project with a background image",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project.html";
+              window.location.href = "/projects/template.html";
             },},{
         id: 'social-cv',
         title: 'CV',
