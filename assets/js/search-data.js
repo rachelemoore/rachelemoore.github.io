@@ -46,7 +46,7 @@ ninja.data = [{
           title: 'Understanding axon initiation in vivo',
           description: "Clarke Lab, KCL",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project.html";
+              window.location.href = "/projects/axoninitiation_project.html";
             },},{id: "projects-understanding-the-function-of-pard3-during-neural-crest-migration",
           title: 'Understanding the function of Pard3 during neural crest migration',
           description: "Mayor Lab, UCL",
