@@ -15,3 +15,8 @@ We already knew that neurons of a particular subtype differentiate along the ver
 We hypothesised that basal protrusions were mediating the spatiotemporal pattern of neuronal differentiation. We showed that the protrusions express DeltaD and that Notch activity is upregulated in nearby cells. We were able to disturb the formation of basal protrusions by removing the extracellular matrix protein laminin. In zebrafish embryos that had a mutation in a laminin gene, basal protrusions were much shorter and the space between differentiating neurons was reduced. Our experimental data were also supported by a theoretical model. 
 
 All together, our results support the hypothesis that basal protrusions inhibit the neuronal differentiation by long-distance lateral inhibition. When the basal protrusions are retracted the lateral inhibition is released and a new neuron can arise in between the two existing neurons.
+
+## Related Publications
+
+<!-- {% cite hadjivasiliou2019basal %} -->
+{% bibliography --cited %}
