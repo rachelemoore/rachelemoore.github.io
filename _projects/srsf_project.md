@@ -5,7 +5,7 @@ description: Houart Lab, KCL
 img: assets/img/12.jpg
 importance: 1
 category: ongoing
-related_publications: false
+related_publications: true
 ---
 
 We usually think of RNA splicing proteins as being in the nucleus, where they (believe it or not!) splice mRNA molecules for export from the nucleus. Once out of the nucleus, the cell uses mRNAs as templates to make proteins. RNA splicing proteins are important because, by changing how they splice the mRNAs - called "alternative splicing" - they  massively increase the variety of proteins available to the cell.
