@@ -5,7 +5,7 @@ description: Clarke Lab, KCL
 img: 
 importance: 1
 category: previous
-related_publications: true
+related_publications: false
 ---
 
 This was a wonderfully collaborative project with Dr Paula Alexandre (ICH, UCL) and Dr Zena Hadjivasiliou (Francis Crick Institute). Paula first identified a novel type of protrusion formed by newborn spinal neurons - two long cellular protrusions extended longitudinally along spinal cord. They are transient and are retracted before the neuron rounds at the surface of the spinal cord and extends an axon. Because they grow along the basal surface of the spinal cord, we called them "basal protrusions".
