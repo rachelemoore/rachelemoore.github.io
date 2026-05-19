@@ -11,5 +11,5 @@ As a PhD student I characterised the localisation and function of Pard3 in mesen
 
 ## Related Publications
 
-<!-- {% moore2020delta %} -->
+<!-- {%cite moore2020delta %} -->
 {% bibliography --cited %}
