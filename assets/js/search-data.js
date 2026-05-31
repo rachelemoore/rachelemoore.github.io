@@ -62,8 +62,8 @@ ninja.data = [{
           description: "a project with a background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/template_project.html";
-            },},{id: "projects-a-novel-protrusion-type-mediates-the-spatiotemporal-pattern-of-neuronal-differentiation",
-          title: 'A novel protrusion type mediates the spatiotemporal pattern of neuronal differentiation',
+            },},{id: "projects-basal-protrusions-mediate-the-spatiotemporal-pattern-of-neuronal-differentiation",
+          title: 'Basal protrusions mediate the spatiotemporal pattern of neuronal differentiation',
           description: "Clarke Lab, KCL",
           section: "Projects",handler: () => {
               window.location.href = "/projects/tshape_project.html";
