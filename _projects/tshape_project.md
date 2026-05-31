@@ -17,6 +17,6 @@ We hypothesised that basal protrusions were mediating the spatiotemporal pattern
 All together, our results support the hypothesis that basal protrusions inhibit the neuronal differentiation by long-distance lateral inhibition. When the basal protrusions are retracted, lateral inhibition is released and a new neuron can arise in between the two existing neurons.
 
 
-### References
+### Related publications
 
 Hadjivasiliou Z, Moore RE, et al. (2019). [Basal protrusions mediate spatiotemporal patterns of spinal neuron differentiation](https://doi.org/10.1016/j.devcel.2019.05.035)
