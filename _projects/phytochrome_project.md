@@ -9,7 +9,6 @@ category: previous
 
 I worked closely with Dr Clare Buckley (now at University of Manchester) to develop the Phytochrome system for zebrafish. The Phytochrome system allows the rapid, precise and reversible manipulation of subcellular protein localisation. 
 
-## Related Publications
+### References
 
-<!-- {% cite buckley2016reversible %} -->
-{% bibliography --cited %}
+Buckley CE, et al. (2016). [Reversible optogenetic control of subcellular protein localization in a live vertebrate embryo](https://doi.org/10.1016/j.devcel.2015.12.011)
