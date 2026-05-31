@@ -7,7 +7,8 @@ importance: 3
 category: previous
 ---
 
-As a PhD student I characterised the localisation and function of Pard3 in mesenchyma cells. I showed that microtubule dynamics are different at different subcellular locations. 
+The neural crest is a mesenchymal cell population that arises alongside the neural tube in vertebrate embryos. It migrates through the 
+As a PhD student I characterised the localisation and function of Pard3 in mesenchymal cells. I showed that microtubule dynamics are different at different subcellular locations. 
 
 ### References
 
