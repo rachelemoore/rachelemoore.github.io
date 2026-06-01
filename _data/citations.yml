@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-01'
+  last_updated: '2026-06-01'
 papers:
   xaJhRqgAAAAJ:0EnyYjriUFMC:
     citations: 1
@@ -22,7 +22,7 @@ papers:
     title: Control of microtubule dynamics by Par3 is required for contact inhibition of locomotion
     year: '2013'
   xaJhRqgAAAAJ:Y0pCki6q_DkC:
-    citations: 133
+    citations: 134
     title: Reversible optogenetic control of subcellular protein localization in a live vertebrate embryo
     year: '2016'
   xaJhRqgAAAAJ:roLk4NBRz8UC:
@@ -30,10 +30,10 @@ papers:
     title: "Delta-notch signaling: The long and the short of a neuron\u2019s influence on progenitor fates"
     year: '2020'
   xaJhRqgAAAAJ:u-x6o8ySG0sC:
-    citations: 63
+    citations: 64
     title: The role of neural activity in the migration and differentiation of enteric neuron precursors
     year: '2010'
   xaJhRqgAAAAJ:u5HHmVD_uO8C:
-    citations: 111
+    citations: 112
     title: Par3 controls neural crest migration by promoting microtubule catastrophe during contact inhibition of locomotion
     year: '2013'
