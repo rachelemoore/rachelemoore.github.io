@@ -2,7 +2,7 @@
 layout: page
 title: Basal protrusions mediate the spatiotemporal pattern of neuronal differentiation
 description: Clarke Lab, KCL
-img: assets/img/t53.tif
+img: assets/img/t53.jpg
 importance: 1
 category: previous
 related_publications: false
