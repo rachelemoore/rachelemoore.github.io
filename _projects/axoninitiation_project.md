@@ -2,7 +2,7 @@
 layout: page
 title: Understanding axon initiation in vivo
 description: Clarke Lab, KCL 
-img: assets/img/Projections of Image36_AiryscanProcessingRFP.tif
+img: assets/img/Image36_AiryscanProcessingRFP.jpg
 importance: 1
 category: ongoing
 related_publications: false
