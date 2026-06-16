@@ -2,7 +2,7 @@
 layout: page
 title: Understanding the function of Pard3 during neural crest migration
 description: Mayor Lab, UCL
-img: assets/img/projects/NCC_MT.tif
+img: assets/img/projects/NCC_MT.jpg
 importance: 3
 category: previous
 ---
