@@ -31,4 +31,4 @@ All together, our results support the hypothesis that basal protrusions inhibit 
 
 ### Related publications
 
-Hadjivasiliou Z, Moore RE, et al. (2019). [Basal protrusions mediate spatiotemporal patterns of spinal neuron differentiation] (https://doi.org/10.1016/j.devcel.2019.05.035)
+Hadjivasiliou Z, Moore RE, et al. (2019). [Basal protrusions mediate spatiotemporal patterns of spinal neuron differentiation](https://doi.org/10.1016/j.devcel.2019.05.035)
