@@ -2,7 +2,7 @@
 layout: page
 title: Basal protrusions mediate the spatiotemporal pattern of neuronal differentiation
 description: Clarke Lab, KCL
-img: assets/img/projects/t53.jpg
+img: assets/img/projects/tshape.jpg
 importance: 1
 category: previous
 ---
@@ -11,9 +11,7 @@ This was a wonderfully collaborative project with Dr Paula Alexandre (ICH, UCL) 
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
-    <video width="100%" autoplay loop muted playsinline class="rounded z-depth-1">
-      <source src="/assets/img/projects/E489 single cell removecell zproj registered crop bc.gif" type="video/gif">
-    </video>
+    {% include figure.liquid path="assets/img/projects/E489 single cell removecell zproj registered crop bc.gif" title="tshape cell" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
@@ -25,7 +23,7 @@ All together, our results support the hypothesis that basal protrusions inhibit 
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/projects/basal protrusion model.tif" title="basal protrusion model" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/projects/basal protrusion model.jpg" title="basal protrusion model" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
