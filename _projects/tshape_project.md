@@ -25,7 +25,7 @@ All together, our results support the hypothesis that basal protrusions inhibit 
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/projects/basal protrusions model.tif" title="basal protrusion model" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/projects/basal protrusion model.tif" title="basal protrusion model" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
