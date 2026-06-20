@@ -2,7 +2,7 @@
 layout: page
 title: Developing the Phytochrome system for zebrafish
 description: Clarke Lab, KCL
-img:
+img: assets/img/projects/buckley2016reversible.jpg
 importance: 2
 category: previous
 ---
