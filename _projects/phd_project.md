@@ -24,6 +24,7 @@ As a PhD student I brought together in vivo and in vitro techniques to character
     </video>
   </div>
 </div>
+
 Loss of Pard3 (bottom panel) leads to the cells overlapping one another, which does not happen in controls cells (top panel).
 
 
@@ -31,4 +32,4 @@ Loss of Pard3 (bottom panel) leads to the cells overlapping one another, which d
 
 Moore RE, et al. (2013). [Par3 controls neural crest migration by promoting microtubule catastrophe during contact inhibition of locomotion](https://doi.org/10.1242/dev.098509)
 
-Moore RE. (2013). [Control of microtubule dynamics by Par3 is required for contact inhibtion of locomotion] (https://discovery.ucl.ac.uk/id/eprint/1403983/)
+Moore RE. (2013). [Control of microtubule dynamics by Par3 is required for contact inhibtion of locomotion](https://discovery.ucl.ac.uk/id/eprint/1403983/)
