@@ -2,18 +2,20 @@
 layout: page
 title: Basal protrusions mediate the spatiotemporal pattern of neuronal differentiation
 description: Clarke Lab, KCL
-img: assets/img/t53.jpg
+img: assets/img/projects/t53.jpg
 importance: 1
 category: previous
-related_publications: false
 ---
 
 This was a wonderfully collaborative project with Dr Paula Alexandre (ICH, UCL) and Dr Zena Hadjivasiliou (Francis Crick Institute). Paula first identified a novel type of protrusion formed by newborn spinal neurons - two long cellular protrusions extended longitudinally along the spinal cord. They are transient and are retracted before the neuron rounds at the surface of the spinal cord and extends an axon. Because they grow along the basal surface of the spinal cord, we called them "basal protrusions".
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="E489 single cell removecell zproj registered crop bc.gif" title="example image" class="img-fluid" %}
+    <video width="100%" autoplay loop muted playsinline class="rounded z-depth-1">
+      <source src="/assets/img/projects/E489 single cell removecell zproj registered crop bc.gif" type="video/gif">
+    </video>
   </div>
+</div>
 
 We already knew that neurons of a particular subtype differentiate along the vertebrate spinal cord in a fairly even, sparse pattern. Subsequent neurons of the same subtype then arise in the gaps between neurons from earlier waves of differentiation. This continues until a continuous column of that particular neuronal subtype is formed. However, the mechanisms that regulate this patterning were unknown. 
 
@@ -23,9 +25,10 @@ All together, our results support the hypothesis that basal protrusions inhibit 
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="basal protrusion model.tif" title="example image" class="img-fluid" %}
+    {% include figure.liquid path="assets/img/projects/basal protrusions model.tif" title="basal protrusion model" class="img-fluid rounded z-depth-1" %}
   </div>
+</div>
 
 ### Related publications
 
-Hadjivasiliou Z, Moore RE, et al. (2019). [Basal protrusions mediate spatiotemporal patterns of spinal neuron differentiation](https://doi.org/10.1016/j.devcel.2019.05.035)
+Hadjivasiliou Z, Moore RE, et al. (2019). [Basal protrusions mediate spatiotemporal patterns of spinal neuron differentiation] (https://doi.org/10.1016/j.devcel.2019.05.035)
