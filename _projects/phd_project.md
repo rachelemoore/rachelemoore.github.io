@@ -19,7 +19,9 @@ As a PhD student I brought together in vivo and in vitro techniques to character
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/projects/Supplementary Movie 03.mp4" title="cell-cell contact" class="img-fluid rounded z-depth-1" %}
+    <video width="100%" autoplay loop muted playsinline class="rounded z-depth-1">
+      <source src="/assets/img/projects/Supplementary Movie 03.mp4" type="video/mp4">
+    </video>
   </div>
 </div>
 Loss of Pard3 (bottom panel) leads to the cells overlapping one another, which does not happen in controls cells (top panel).
