@@ -14,7 +14,7 @@ Axon initiation has mostly been studied in cultured neurons. During my first pos
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/publication_preview/moore2022microtubules.gif" title="tshape cell" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/publication_preview/moore2022microtubules.gif" title="tshape cell" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
