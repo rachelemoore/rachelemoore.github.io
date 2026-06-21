@@ -30,3 +30,7 @@ All together, our results support the hypothesis that basal protrusions inhibit 
 ### Related publications
 
 Hadjivasiliou Z, Moore RE, et al. (2019). [Basal protrusions mediate spatiotemporal patterns of spinal neuron differentiation](https://doi.org/10.1016/j.devcel.2019.05.035)
+
+Moore RE, et al. (2020). [Protrusion-Mediated signaling regulates patterning of the developing nervous system](https://10.3389/fcell.2020.579073)
+
+Moore RE, et al. (2020). [Delta-notch signaling: The long and the short of a neuron's influence on progenitor fates](https://10.3390/jdb8020008)
