@@ -2,10 +2,9 @@
 layout: page
 title: Investigating SRSF RNA splicing proteins in neuronal development
 description: Houart Lab, KCL
-img: assets/img/20240913_E178_frontal_SRSF1 mito HuCGFP.jpg
+img: assets/img/projects/20240913_E178_frontal_SRSF1 mito HuCGFP.jpg
 importance: 1
 category: ongoing
-related_publications: false
 ---
 
 We usually think of RNA splicing proteins as being in the nucleus, where they splice mRNA molecules for export from the nucleus. Once out of the nucleus, the cell uses mRNAs as templates to make proteins. RNA splicing proteins are important because, by changing how they splice the mRNAs - called "alternative splicing" - they  massively increase the variety of proteins available to the cell.
