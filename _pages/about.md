@@ -37,5 +37,5 @@ I am interested in how neurons mature and develop within the embyronic nervous s
 </div>
 
 <video width="100%" autoplay loop muted playsinline>
-  <source src="/assets/video/E320_03_11 zproj adjustbleach.gif" type="video/mp4">
+  <source src="/assets/video/E320_03_11 zproj adjustbleach.mp4" type="video/mp4">
 </video>
