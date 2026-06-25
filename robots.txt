@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://rachelmoore.co.uk/sitemap.xml
+Sitemap: https://www.rachelmoore.co.uk/sitemap.xml
