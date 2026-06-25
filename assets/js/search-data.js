@@ -30,13 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
         },{id: "projects-understanding-axon-initiation-in-vivo",
           title: 'Understanding axon initiation in vivo',
           description: "Clarke Lab, KCL",
