@@ -30,7 +30,21 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "projects-understanding-axon-initiation-in-vivo",
+        },{id: "news-a-long-announcement-with-details",
+          title: 'A long announcement with details',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2.html";
+            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-i-m-very-pleased-that-my-application-to-the-latest-round-of-the-king-s-parents-and-carers-fund-was-successful-i-will-use-this-funding-to-employ-a-part-time-research-assistant-the-job-advert-will-be-out-soon-watch-this-space",
+          title: 'I’m very pleased that my application to the latest round of the King’s...',
+          description: "",
+          section: "News",},{id: "news-position-open-for-a-research-technician-to-work-with-me-in-professor-corinne-houart-s-lab-the-successful-candidate-will-focus-on-establishing-new-crispr-knock-in-zebrafish-lines-and-will-also-have-plenty-of-opportunities-to-carry-out-other-molecular-and-cell-biology-experiments-it-s-a-part-time-position-and-would-be-great-for-a-recent-graduate-who-would-like-to-get-more-lab-experience-please-contact-me-with-any-questions-and-share-https-www-kcl-ac-uk-jobs-151245-research-technician",
+          title: 'Position open for a Research Technician to work with me in Professor Corinne...',
+          description: "",
+          section: "News",},{id: "projects-understanding-axon-initiation-in-vivo",
           title: 'Understanding axon initiation in vivo',
           description: "Clarke Lab, KCL",
           section: "Projects",handler: () => {
